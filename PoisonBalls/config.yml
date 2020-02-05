@@ -1,0 +1,5 @@
+poisonball:
+  name: "&b&lUna palla di neve che ti avvelena"
+  lore: "&7Avvelena il tuo nemico!"
+  seconds: 10
+  Permission: "poisonball.use"

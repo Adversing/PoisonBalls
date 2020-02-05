@@ -1,0 +1,9 @@
+name: PoisonBalls
+author: Adversing
+version: 0.1
+description: Crea delle snowball che danno l'effetto di veleno al tuo nemico
+main: me.Adversing.PoisonBalls.PoisonBalls
+commands:
+  snowball:
+    description: Una palla di neve che ti avvelena
+    permission: poisonball.give
